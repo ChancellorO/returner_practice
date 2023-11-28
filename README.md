@@ -26,3 +26,5 @@ To run the application, make sure you are in your main repo directory and type t
 npx expo start
 ```
 Make sure you have the Expo Go app downloaded on your mobile device. You can also use an emulator on your laptop if you prefer. Once it is on your mobile device, open up your camera (IOS) or the app camera (Android) and scan the QR code to see the application build.
+
+changes
